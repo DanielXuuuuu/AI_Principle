@@ -46,7 +46,7 @@
 
 以下截图为在VSCode中的运行结果，预测正确率为97.31%
 
-![result](..\hw1\img\result1.png)
+![result](img\result1.png)
 
 ------
 
@@ -89,7 +89,7 @@
 
 以下是VSCode下的运行结果：
 
-![paths](..\hw1\img\result2.png)
+![paths](img\result2.png)
 
 ### 总结
 
