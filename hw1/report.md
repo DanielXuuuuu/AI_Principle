@@ -46,7 +46,7 @@
 
 以下截图为在VSCode中的运行结果，预测正确率为97.31%
 
-![result](img\result1.png)
+![result](img/result1.png)
 
 ------
 
@@ -56,7 +56,7 @@
 
 给出以下城市的连通图，要求利用A*算法找到从A城市到B城市的最短路径，以及代价。其中，A、B可以为任意两个城市。
 
-![paths](..\hw1\img\cities.png)
+![paths](img/cities.png)
 
 ###### 问题分析与解题思路
 
@@ -89,7 +89,7 @@
 
 以下是VSCode下的运行结果：
 
-![paths](img\result2.png)
+![paths](img/result2.png)
 
 ### 总结
 
